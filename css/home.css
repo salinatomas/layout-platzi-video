@@ -2,21 +2,8 @@ body {
   margin: 0;
   font-family: 'Muli', sans-serif;
   background-color: #8F57FD;
-  /* overflow-x: hidden; */
-}/* 
-body::-webkit-scrollbar {
-  width: 15px;
+  overflow-x: hidden;
 }
-body::-webkit-scrollbar-thumb {
-  background: rgba(255, 255, 255, 0.1);
-  border: 2px solid white;
-  border-radius: 50px;
-}
-body::-webkit-scrollbar-button {
-  width: 30px;
-  background-color: transparent;
-} */
-
 
 .header {
   background-color: #8F57FD;
