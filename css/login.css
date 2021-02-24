@@ -65,7 +65,7 @@ header img {
 }
 
 .login__container--social-media > div {
-  /*Todos lops divs dentro de .login__container--social-media*/
+  /*Todos los divs dentro de .login__container--social-media*/
   display: flex;
   align-items: center;
   font-size: 14px;
@@ -115,9 +115,9 @@ header img {
   background-color: rgba(255, 255, 255, 0.1);
   border: none;
   border-radius: 25px;
-  
+
   cursor: pointer;
-  
+
   font-weight: bold;
   font-family: "Muli", sans-serif;
   height: 50px;
